@@ -3,4 +3,4 @@ First Git Hub repo created
 
 Hello to the Earthlings!
 
-Angela, here!  Coffeescript is awesome!  
+Angela, here!  Coffeescript is awesome!  changes
